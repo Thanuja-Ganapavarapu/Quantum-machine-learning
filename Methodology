@@ -1,0 +1,1 @@
+ Original Image --> Numpy Matrix --> Binary Number --> QKD Protocols (BB84, E91, T22....) ---> Apply Superposition Gate (H) --> Send the binary into superposition state  ---> Apply reverse Superposition ---> Receive Binary --> Numpy Matrix -->Received Image.
